@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "createaddition:chocolate_cake",
+    "createaddition:honey_cake",
+    "tconstruct:earth_cake",
+    "tconstruct:sky_cake",
+    "tconstruct:ichor_cake",
+    "tconstruct:ender_cake",
+    "tconstruct:blood_cake",
+    "tconstruct:magma_cake"
+  ]
+}

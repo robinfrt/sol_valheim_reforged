@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="sol_valheim_reforged"
+version="1.0.1"
+displayName="Spice of Life: Valheim Reforged"
+displayURL="https://www.curseforge.com/members/robinfrt/projects"
+logoFile="logo.png"
+credits="A mod by robinfrt"
+authors="robinfrt"
+description="Overhauls Minecraft's food system to work similarly to Valheim's."
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.sol_valheim_reforged]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
